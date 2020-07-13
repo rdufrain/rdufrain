@@ -1,4 +1,6 @@
-### What up!?! I'm Ryan 👋
+### What up!?! 
+I'm Ryan 👋
+Wear a mask!
 
 - 🔭 I’m currently working on sharpening my skills to make cool stuff.
 
